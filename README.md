@@ -1,22 +1,7 @@
 # Foundry Smart Contract Lottery
 
 [![CI](https://github.com/tohidul3417/foundry-smart-contract-lottery/actions/workflows/test.yml/badge.svg)](https://github.com/tohidul3417/foundry-smart-contract-lottery/actions/workflows/test.yml)
-
-## Table of Contents
-
-- [About The Project](#about-the-project)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-  - [Building](#building)
-  - [Testing](#testing)
-  - [Deployment](#deployment)
-- [Continuous Integration](#continuous-integration)
-- [Contributing](#contributing)
-- [License](#license)
-
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## About The Project
 
